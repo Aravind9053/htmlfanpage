@@ -1,5 +1,4 @@
-<hr>
 <center>
-<h1>ajith</h1>
+  <h1>vijay</h1>
 </center>
-<hr/>
+<hr>
